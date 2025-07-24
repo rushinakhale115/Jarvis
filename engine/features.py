@@ -1,4 +1,5 @@
 from playsound import playsound
+import eel
 
 
 #playing assistant sound
